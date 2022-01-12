@@ -11,7 +11,7 @@ As a learning developper, it has been a way for me to improve on algorithm probl
 
 ## Content 
 
-Find a folder for each day of december with:
+Find a folder for each dayly puzzle with:
 + my code .py
 + input given AOC .txt
 
