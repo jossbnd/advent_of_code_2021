@@ -1,4 +1,4 @@
-# advent_of_code_2021
+# Advent of Code 2021
 
 The great adventure of Advent Of Code 2021: https://adventofcode.com/
 
