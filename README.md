@@ -2,7 +2,7 @@
 
 The great adventure of Advent Of Code 2021: https://adventofcode.com/
 
-You'll find here all my solutions to reach the 50 stars and save Christmas !
+You'll find here all my solutions to reach the 50 stars and save Christmas !  
 As a learning developper, it has been a way for me to improve on algorithm problem
 
 ## Technologies
