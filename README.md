@@ -13,7 +13,7 @@ As a learning developper, it has been a way for me to improve on algorithm probl
 
 Find a folder for each dayly puzzle with:
 + my code .py
-+ input given AOC .txt
++ input given by AOC .txt
 
 If you want to know more about each puzzle, please visit https://adventofcode.com/
 
